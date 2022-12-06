@@ -130,10 +130,4 @@ MYAPP_UPLOAD_KEY_ALIAS=my-key-alias
 MYAPP_UPLOAD_STORE_PASSWORD=abcdefghijklmnop
 MYAPP_UPLOAD_KEY_PASSWORD=abcdefghijklmnop
 
-
-
-
-LogIn: 
-harveyspectere@gmail.com
-12345
 */
