@@ -15,7 +15,8 @@ I have been stuck here for 3 consecutive days.
 I tried everything I could find.  
 https://stackoverflow.com/questions/59695135/react-native-android-build-process-command-npx-cmd-finished-with-non-zero
 https://github.com/facebook/react-native/issues/28510  
-None of these soltions worked.
+None of these soltions worked.  
+I have also tried several React native versions, and tried changing Gradle versions, and JDK versions. None of these worked.
 
 # How I Generated these projects:
 
