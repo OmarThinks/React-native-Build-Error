@@ -2,15 +2,17 @@
 
 https://github.com/OmarThinks/ReactNativeBuildError
 
+Issue: **https://github.com/facebook/react-native/issues/35583**
+
 # Acknowledgement:
 
 Thank you so much React Native Team for your hard and consistent work.
 
 # Reporducability of issue:
 
-Here the are 2 projects: https://github.com/OmarThinks/ReactNativeBuildError  
+Here the are 3 projects: https://github.com/OmarThinks/ReactNativeBuildError  
 I have created a Github repo to make it easy for you to spot the error.  
-JS and TS projects.  
+JS, TS, and react-native next version projects.  
 I have been stuck here for 3 consecutive days.  
 I tried everything I could find.  
 https://stackoverflow.com/questions/59695135/react-native-android-build-process-command-npx-cmd-finished-with-non-zero
@@ -22,10 +24,8 @@ I have also tried several React native versions, and tried changing Gradle versi
 
 ```bash
 npx react-native init AwesomeProject
-```
-
-```bash
 npx react-native init AwesomeTSProject --template react-native-template-typescript
+npx react-native init AwesomeProjectNext --version next
 ```
 
 I did not add any other code to the templates, just signning the keys.
